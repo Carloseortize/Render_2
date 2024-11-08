@@ -3,3 +3,5 @@ scipy==1.9.3
 streamlit==1.12.2
 numpy==1.23.5
 wheel
+altair==4.1.0
+vega_datasets
